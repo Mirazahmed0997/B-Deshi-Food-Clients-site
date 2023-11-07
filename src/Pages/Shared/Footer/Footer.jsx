@@ -10,6 +10,7 @@ const Footer = () => {
                         ACME Industries Ltd. <br />Providing reliable tech since 1992
                     </p>
                     <p>Copyright © 2023 - All right reserved for B-Deshi</p>
+                    <p>Contact : miraz.ahmed.cse@ulab.edu.bd</p>
                 </aside>
                 <nav>
                     <div className="grid grid-flow-col gap-4">
